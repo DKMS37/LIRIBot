@@ -81,4 +81,8 @@ spotify.search({ type: "track", query: value }, function (err, data) {
         }
 
     }
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> b96ae5f893e5d799c408b6fa2b54218bbf1252d6
