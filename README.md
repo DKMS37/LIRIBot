@@ -18,7 +18,7 @@
        * Plot of the movie.
        * Actors in the movie.
      ```
-![Image of liriBot doing movieThis](https://github.com/DKMS37/LIRIBot/blob/master/images/movieThis_liriBot.PNG)
+![Image of liriBot doing movieThis](https://github.com/DKMS37/LIRIBot/blob/master/images/movieThis.PNG)
 
 
 
@@ -36,7 +36,7 @@ if liriBot takes the command or you type in the terminal below:
 
      * The album that the song is from
 
-![Image of liriBot doing SpotifyThis](https://github.com/DKMS37/LIRIBot/blob/master/images/spotifyThis_liriBot.PNG)
+![Image of liriBot doing SpotifyThis](https://github.com/DKMS37/LIRIBot/blob/master/images/spotifyThis.PNG)
 
 
 
@@ -54,7 +54,7 @@ if liriBot takes the command or you type in the terminal below:
 
      * Time of the Event
 
-![Image of liriBot doing concertThis](https://github.com/DKMS37/LIRIBot/blob/master/images/concertThis_liriBot.PNG)
+![Image of liriBot doing concertThis](https://github.com/DKMS37/LIRIBot/blob/master/images/concertThis.PNG)
 
 
 
